@@ -1,0 +1,23 @@
+
+h1{
+	color: #f5f5dc;
+}
+body{background-color: #79443b}
+p{color: #cdf732}
+.greenParagraph{color: #efdecd}
+table, td{
+border-style: dashed;}
+
+
+td{border-width: 2px;}
+
+table{
+	border-width: 4px;
+border-color: #fab43a;
+margin-left: auto;
+margin-right: auto;
+}
+body{
+	background-image: url(madera.png);
+	background-size: 100%;
+}
